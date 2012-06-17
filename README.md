@@ -1,3 +1,5 @@
+A fork of the real thing for me to play around with
+
 # Backbone Tutorials
 
 This site is by no means the definite guide to backbone.js and all corrections and contributions are welcome.
